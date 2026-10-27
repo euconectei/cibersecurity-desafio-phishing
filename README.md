@@ -19,3 +19,7 @@
 ### Resutados
 
 ![Alt text](./passwd.png "Optional title")
+![Alt text](./Captura%20de%20Tela%202026-10-27%20às%2016.20.27.png "Optional title")
+![Alt text](./Captura%20de%20Tela%202026-10-27%20às%2017.02.42.png "Optional title")
+![Alt text](./Captura%20de%20Tela%202026-10-27%20às%2017.03.25.png "Optional title")
+![Alt text](./Captura%20de%20Tela%202026-10-27%20às%2017.03.38.png "Optional title")
